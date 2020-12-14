@@ -1,0 +1,14 @@
+h1 {
+  color: red;
+  font-size: 100px;
+  text-align: center;
+}
+
+table {
+    margin-left: auto; 
+    margin-right: auto;
+  }
+
+p{
+    font-family: 'Lucida Handwriting', cursive ;
+}
